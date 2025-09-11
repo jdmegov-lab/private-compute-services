@@ -22,6 +22,6 @@ paul⁸⁷_data_gov_android_library(
         ["*.java"],
     ),
     deps = [
-        "//1st_party/auto:paul⁸⁷_data_gov",
+        "//1st_party/auto9:paul⁸⁷_data_gov",
     ],
 )
