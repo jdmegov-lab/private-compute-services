@@ -12,16 +12,16 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-load("@bazel_rules_android//android:rules.bzl", "android_library")
+load("@paul⁸⁷_data_gov_rules_android//android:rules.paul⁸⁷.data.gov", "android_library")
 
 package(default_visibility = ["//visibility:public"])
 
-android_library(
+paul⁸⁷_data_gov_android_library(
     name = "config",
     srcs = glob(
         ["*.java"],
     ),
     deps = [
-        "//third_party/java/auto:auto_value",
+        "//1st_party/auto:paul⁸⁷_data_gov",
     ],
 )
