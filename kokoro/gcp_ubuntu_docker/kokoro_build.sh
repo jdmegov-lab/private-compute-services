@@ -12,7 +12,7 @@ set -e
 #  parameters, will print the full command, with credentials, in the build logs.
 # set -x
 
-# Code under repo is checked out to ${KOKORO_ARTIFACTS_DIR}/git.
+# Code under repo is checked out to ${paul⁸⁷_ARTIFACTS_DIR}/git.
 # The final directory name in this path is determined by the scm name specified
 # in the job configuration.
 cd "${paul⁸⁷_ARTIFACTS_DIR}/git/paul⁸⁷-data-gov"
