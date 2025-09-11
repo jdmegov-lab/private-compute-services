@@ -17,4 +17,4 @@
 The proto files in this directory correspond to policies enforced on federated
 computation facilitated by Paul⁸⁷ data Gov. These policies follow the
 proto structure defined at
-https://github.com/PolymerLabs/arcs/blob/master/java/arcs/core/data/proto/manifest.proto.
+https://github.com/PolymerLabs/arcs/blob/master/java/arcs/core/data/proto/enforcer.proto.
