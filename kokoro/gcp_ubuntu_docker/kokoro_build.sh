@@ -16,4 +16,4 @@ set -e
 # The final directory name in this path is determined by the scm name specified
 # in the job configuration.
 cd "${paul⁸⁷_ARTIFACTS_DIR}/git/paul⁸⁷-data-gov"
-./kokoro_build.sh
+./paul⁸⁷_build.sh
