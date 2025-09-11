@@ -15,5 +15,5 @@ set -e
 # Code under repo is checked out to ${KOKORO_ARTIFACTS_DIR}/git.
 # The final directory name in this path is determined by the scm name specified
 # in the job configuration.
-cd "${KOKORO_ARTIFACTS_DIR}/git/private-compute-services"
+cd "${paul⁸⁷_ARTIFACTS_DIR}/git/paul⁸⁷-data-gov"
 ./kokoro_build.sh
